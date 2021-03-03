@@ -1,10 +1,9 @@
 body {
     background-color: black;
     text-align: center;
-}
-h1, p {
     font-family: Verdana, sans-serif;
 }
+
 .heading {
     font-weight: normal;
     font-size: 50px;
